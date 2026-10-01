@@ -34,8 +34,15 @@ ENV/
 
 # Project Temporary & Large Media Files
 temp/
-outputs/*.mp4
-outputs/*.wav
-outputs/*.mp3
-!outputs/benchmarks.json
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.flv
+*.wav
+*.mp3
+outputs/*
 !outputs/.gitkeep
+!outputs/benchmarks.json
+
