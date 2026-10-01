@@ -1,0 +1,10 @@
+yt-dlp
+faster-whisper
+edge-tts
+deep-translator
+pydub
+fastapi
+uvicorn
+python-multipart
+sse-starlette
+audioop-lts; python_version >= '3.13'
